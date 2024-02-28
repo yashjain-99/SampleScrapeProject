@@ -1,0 +1,840 @@
+[
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "A Comprehensive Guide to Convolutional Neural Networks \u2014 the ELI5 way",
+        "post_link": "https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53",
+        "author_name": "Sumit Saha",
+        "post_date": "Dec 15, 2018",
+        "read_time": "7 min read",
+        "author_follower_count": "1.8K Followers",
+        "post_tags": [
+            "Computer Vision",
+            "Deep Learning",
+            "Tensor Flow",
+            "Machine Learning",
+            "Convolution Neural Net"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "64"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "Object Detection with 10 lines of code",
+        "post_link": "https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606",
+        "author_name": "Moses Olafenwa",
+        "post_date": "Jun 16, 2018",
+        "read_time": "7 min read",
+        "author_follower_count": "3.6K Followers",
+        "post_tags": [
+            "Object Detection",
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "185"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "mAP (mean Average Precision) for Object Detection",
+        "post_link": "https://towardsdatascience.com/map-mean-average-precision-for-object-detection-45c121a31173",
+        "author_name": "Jonathan Hui",
+        "post_date": "Mar 7, 2018",
+        "read_time": "7 min read",
+        "author_follower_count": "30K Followers",
+        "post_tags": [
+            "",
+            "Object Detection",
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "52"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3",
+        "post_link": "https://towardsdatascience.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088",
+        "author_name": "Jonathan Hui",
+        "post_date": "Mar 18, 2018",
+        "read_time": "18 min read",
+        "author_follower_count": "30K Followers",
+        "post_tags": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "79"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "The best explanation of Convolutional Neural Networks on the Internet!",
+        "post_link": "https://towardsdatascience.com/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8",
+        "author_name": "Harsh Pokharna",
+        "post_date": "Jul 28, 2016",
+        "read_time": "5 min read",
+        "author_follower_count": "2.6K Followers",
+        "post_tags": [
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Analytics",
+            "Machine Learning",
+            "Computer Science"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "26"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "Image Classification in 10 Minutes with MNIST Dataset",
+        "post_link": "https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d",
+        "author_name": "Orhan G. Yal\u00e7\u0131n",
+        "post_date": "Aug 19, 2018",
+        "read_time": "9 min read",
+        "author_follower_count": "1.6K Followers",
+        "post_tags": [
+            "Computer Vision",
+            "Image Recognition",
+            "Deep Learning",
+            "Machine Learning",
+            "Convolution Neural Net"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "23"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "Canny Edge Detection Step by Step in Python \u2014 Computer Vision",
+        "post_link": "https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123",
+        "author_name": "Sofiane Sahir",
+        "post_date": "Jan 25, 2019",
+        "read_time": "6 min read",
+        "author_follower_count": "131 Followers",
+        "post_tags": [
+            "Edge Detection",
+            "Computer Vision",
+            "Data Science",
+            "Machine Learning",
+            "Image Processing"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "17"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "How to break a CAPTCHA system in 15 minutes with Machine Learning",
+        "post_link": "https://towardsdatascience.com/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710",
+        "author_name": "Adam Geitgey",
+        "post_date": "Dec 13, 2017",
+        "read_time": "9 min read",
+        "author_follower_count": "56K Followers",
+        "post_tags": [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "45"
+    },
+    {
+        "topic_name": "computer-vision",
+        "topic_best_all_time_url": "https://medium.com/tag/computer-vision/top/all-time",
+        "post_title": "Train Image Recognition AI with 5 lines of code",
+        "post_link": "https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba",
+        "author_name": "Moses Olafenwa",
+        "post_date": "Jul 20, 2018",
+        "read_time": "11 min read",
+        "author_follower_count": "3.6K Followers",
+        "post_tags": [
+            "Imageai",
+            "Computer Vision",
+            "Image Recognition",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "50"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "Create your first ETL Pipeline in Apache Spark and Python",
+        "post_link": "https://towardsdatascience.com/create-your-first-etl-pipeline-in-apache-spark-and-python-ec3d12e2c169",
+        "author_name": "Adnan Siddiqi",
+        "post_date": "Jun 9, 2019",
+        "read_time": "8 min read",
+        "author_follower_count": "2.8K Followers",
+        "post_tags": [
+            "Python",
+            "Big Data",
+            "Etl",
+            "Spark"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "5"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "Python ETL Tools: Best 8 Options",
+        "post_link": "https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49",
+        "author_name": "Sean Knight",
+        "post_date": "Feb 17, 2020",
+        "read_time": "7 min read",
+        "author_follower_count": "1.3K Followers",
+        "post_tags": [
+            "Data Warehouse",
+            "Data Science",
+            "Big Data",
+            "Etl",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "9"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "Using python script for data ETL",
+        "post_link": "https://towardsdatascience.com/using-python-script-for-data-etl-53138c567906",
+        "author_name": "Martin Yung",
+        "post_date": "Jan 28, 2018",
+        "read_time": "2 min read",
+        "author_follower_count": "201 Followers",
+        "post_tags": [
+            "Sql",
+            "Sql Server",
+            "Etl",
+            "My SQL",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "16"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "DBT: A new way to transform data and build pipelines at The Telegraph",
+        "post_link": "https://towardsdatascience.com/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4",
+        "author_name": "Stefano Solimito",
+        "post_date": "Aug 23, 2019",
+        "read_time": "10 min read",
+        "author_follower_count": "710 Followers",
+        "post_tags": [
+            "Data",
+            "Data Engineering",
+            "Big Data",
+            "Google Cloud Platform",
+            "Etl"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "4"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "How I gained access to TMobile\u2019s national network for free",
+        "post_link": "https://towardsdatascience.com/how-i-gained-access-to-tmobiles-national-network-for-free-f9aaf9273dea",
+        "author_name": "Jacob Ajit",
+        "post_date": "Sep 14, 2016",
+        "read_time": "4 min read",
+        "author_follower_count": "164 Followers",
+        "post_tags": [
+            "Internet",
+            "Carriers",
+            "Lte",
+            "Security",
+            "Mobile"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "13"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "ETL \u2014 Understanding It and Effectively Using It",
+        "post_link": "https://towardsdatascience.com/etl-understanding-it-and-effectively-using-it-f827a5b3e54d",
+        "author_name": "Hashmap",
+        "post_date": "Jan 7, 2019",
+        "read_time": "13 min read",
+        "author_follower_count": "3.2K Followers",
+        "post_tags": [
+            "Data",
+            "Data Analysis",
+            "Database",
+            "Big Data",
+            "Etl"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "6"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "Convert CSV / JSON files to Apache Parquet using AWS Glue",
+        "post_link": "https://towardsdatascience.com/convert-csv-json-files-to-apache-parquet-using-aws-glue-a760d177b45f",
+        "author_name": "Bhuvanesh",
+        "post_date": "Jul 23, 2018",
+        "read_time": "4 min read",
+        "author_follower_count": "720 Followers",
+        "post_tags": [
+            "Apache Parquet",
+            "Serverless",
+            "Aws Glue",
+            "Etl",
+            "AWS"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "21"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "5G non-standalone access",
+        "post_link": "https://towardsdatascience.com/5g-non-standalone-access-4d48cea5db5f",
+        "author_name": "EventHelix",
+        "post_date": "Sep 16, 2018",
+        "read_time": "6 min read",
+        "author_follower_count": "1.8K Followers",
+        "post_tags": [
+            "5 G Wireless",
+            "5 G",
+            "5 G Network",
+            "Lte",
+            "4 G Lte"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "5"
+    },
+    {
+        "topic_name": "etl",
+        "topic_best_all_time_url": "https://medium.com/tag/etl/top/all-time",
+        "post_title": "Python ETL Pipeline: The Incremental data load Techniques",
+        "post_link": "https://towardsdatascience.com/python-etl-pipeline-the-incremental-data-load-techniques-20bdedaae8f",
+        "author_name": "Haq Nawaz",
+        "post_date": "Mar 25, 2022",
+        "read_time": "5 min read",
+        "author_follower_count": "1.1K Followers",
+        "post_tags": [
+            "Sql",
+            "Data",
+            "Database",
+            "Etl",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "5"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "BERT Explained: State of the art language model for NLP",
+        "post_link": "https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270",
+        "author_name": "Rani Horev",
+        "post_date": "Nov 10, 2018",
+        "read_time": "7 min read",
+        "author_follower_count": "1.7K Followers",
+        "post_tags": [
+            "NLP",
+            "Machine Learning",
+            "Bert",
+            "Deep Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "28"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.",
+        "post_link": "https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a",
+        "author_name": "Javed Shaikh",
+        "post_date": "Jul 23, 2017",
+        "read_time": "7 min read",
+        "author_follower_count": "512 Followers",
+        "post_tags": [
+            "NLP",
+            "Classification",
+            "Machine Learning",
+            "Nltk",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "74"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "What is a Transformer?",
+        "post_link": "https://towardsdatascience.com/what-is-a-transformer-d07dd1fbec04",
+        "author_name": "Maxime",
+        "post_date": "Jan 4, 2019",
+        "read_time": "13 min read",
+        "author_follower_count": "905 Followers",
+        "post_tags": [
+            "",
+            "NLP",
+            "Transformers",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "28"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Named Entity Recognition with NLTK and SpaCy",
+        "post_link": "https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da",
+        "author_name": "Susan Li",
+        "post_date": "Aug 17, 2018",
+        "read_time": "6 min read",
+        "author_follower_count": "27K Followers",
+        "post_tags": [
+            "NLP",
+            "Towards Data Science",
+            "Machine Learning",
+            "Named Entity Recognition",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "34"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Building a Simple Chatbot from Scratch in Python (using NLTK)",
+        "post_link": "https://towardsdatascience.com/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e",
+        "author_name": "Parul Pandey",
+        "post_date": "Sep 17, 2018",
+        "read_time": "11 min read",
+        "author_follower_count": "20K Followers",
+        "post_tags": [],
+        "post_clap_count": "NA",
+        "post_comment_count": "117"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Topic Modeling and Latent Dirichlet Allocation (LDA) in Python",
+        "post_link": "https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24",
+        "author_name": "Susan Li",
+        "post_date": "May 31, 2018",
+        "read_time": "5 min read",
+        "author_follower_count": "27K Followers",
+        "post_tags": [
+            "NLP",
+            "Naturallanguageprocessing",
+            "Data Science",
+            "Machine Learning",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "66"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Introduction to Word Embedding and Word2Vec",
+        "post_link": "https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa",
+        "author_name": "Dhruvil Karani",
+        "post_date": "Sep 1, 2018",
+        "read_time": "5 min read",
+        "author_follower_count": "977 Followers",
+        "post_tags": [
+            "Data Science",
+            "NLP",
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "16"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "Multi-Class Text Classification with Scikit-Learn",
+        "post_link": "https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f",
+        "author_name": "Susan Li",
+        "post_date": "Feb 19, 2018",
+        "read_time": "11 min read",
+        "author_follower_count": "27K Followers",
+        "post_tags": [
+            "NLP",
+            "Data Science",
+            "Scikit Learn",
+            "Machine Learning",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "118"
+    },
+    {
+        "topic_name": "nlp",
+        "topic_best_all_time_url": "https://medium.com/tag/nlp/top/all-time",
+        "post_title": "TF-IDF from scratch in python on a real-world dataset.",
+        "post_link": "https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089",
+        "author_name": "William Scott",
+        "post_date": "Feb 15, 2019",
+        "read_time": "19 min read",
+        "author_follower_count": "252 Followers",
+        "post_tags": [
+            "Information Retrieval",
+            "NLP",
+            "Data Science",
+            "Tf Idf",
+            "Data Preprocessing"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "17"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Understanding AUC - ROC Curve",
+        "post_link": "https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5",
+        "author_name": "Sarang Narkhede",
+        "post_date": "Jun 26, 2018",
+        "read_time": "5 min read",
+        "author_follower_count": "2.2K Followers",
+        "post_tags": [
+            "Data Science",
+            "Classifcation Models",
+            "Data Mining",
+            "Machine Learning",
+            "Auc Roc Curve"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "76"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Here\u2019s why so many data scientists are leaving their jobs",
+        "post_link": "https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4",
+        "author_name": "Jonny Brooks-Bartlett",
+        "post_date": "Mar 28, 2018",
+        "read_time": "8 min read",
+        "author_follower_count": "10.3K Followers",
+        "post_tags": [
+            "Data Science",
+            "Towards Data Science",
+            "Office Politics",
+            "Advice",
+            "Jobs"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "282"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Building A Logistic Regression in Python, Step by Step",
+        "post_link": "https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8",
+        "author_name": "Susan Li",
+        "post_date": "Sep 29, 2017",
+        "read_time": "9 min read",
+        "author_follower_count": "27K Followers",
+        "post_tags": [
+            "Data Science",
+            "Classification",
+            "Machine Learning",
+            "Logistic Regression",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "133"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Get Started: 3 Ways to Load CSV files into Colab",
+        "post_link": "https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92",
+        "author_name": "A Apte",
+        "post_date": "Nov 27, 2018",
+        "read_time": "4 min read",
+        "author_follower_count": "343 Followers",
+        "post_tags": [
+            "Python Pandas",
+            "Data Science",
+            "File Management",
+            "Csv",
+            "Colab"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "58"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "The 5 Clustering Algorithms Data Scientists Need to Know",
+        "post_link": "https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68",
+        "author_name": "George Seif",
+        "post_date": "Feb 5, 2018",
+        "read_time": "11 min read",
+        "author_follower_count": "21K Followers",
+        "post_tags": [
+            "Algorithms",
+            "Clustering",
+            "Data Science",
+            "Towards Data Science",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "54"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Machine Learning Basics with the K-Nearest Neighbors Algorithm",
+        "post_link": "https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761",
+        "author_name": "Onel Harrison",
+        "post_date": "Sep 10, 2018",
+        "read_time": "9 min read",
+        "author_follower_count": "1K Followers",
+        "post_tags": [
+            "Algorithms",
+            "Data Science",
+            "Data",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "31"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Train/Test Split and Cross Validation in Python",
+        "post_link": "https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6",
+        "author_name": "Adi Bronshtein",
+        "post_date": "May 17, 2017",
+        "read_time": "9 min read",
+        "author_follower_count": "3.4K Followers",
+        "post_tags": [
+            "Data Science",
+            "Data Analysis",
+            "Machine Learning",
+            "Statistics",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "49"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "Understanding Random Forest",
+        "post_link": "https://towardsdatascience.com/understanding-random-forest-58381e0602d2",
+        "author_name": "Tony Yiu",
+        "post_date": "Jun 12, 2019",
+        "read_time": "9 min read",
+        "author_follower_count": "96K Followers",
+        "post_tags": [
+            "Programming",
+            "Data Science",
+            "Artificial Intelligence",
+            "Technology",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "40"
+    },
+    {
+        "topic_name": "data-science",
+        "topic_best_all_time_url": "https://medium.com/tag/data-science/top/all-time",
+        "post_title": "How to build your own Neural Network from scratch in Python",
+        "post_link": "https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6",
+        "author_name": "James Loy",
+        "post_date": "May 14, 2018",
+        "read_time": "7 min read",
+        "author_follower_count": "6.9K Followers",
+        "post_tags": [
+            "Data Science",
+            "Towards Data Science",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "158"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "How I got Financial Aid for Data Science Course on Coursera !!!",
+        "post_link": "https://towardsdatascience.com/how-i-got-financial-aid-for-data-science-course-on-coursera-8880d281f9a2",
+        "author_name": "Rohit Ghumare",
+        "post_date": "Aug 31, 2019",
+        "read_time": "3 min read",
+        "author_follower_count": "1.6K Followers",
+        "post_tags": [],
+        "post_clap_count": "NA",
+        "post_comment_count": "18"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "SQLAlchemy \u2014 Python Tutorial",
+        "post_link": "https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91",
+        "author_name": "Vinay Kudari",
+        "post_date": "Aug 23, 2018",
+        "read_time": "3 min read",
+        "author_follower_count": "390 Followers",
+        "post_tags": [
+            "Sql",
+            "Sqlalchemy",
+            "Data Science",
+            "Database",
+            "Postgres"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "16"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "How to rewrite your SQL queries in Pandas, and more",
+        "post_link": "https://towardsdatascience.com/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e",
+        "author_name": "Irina Truong",
+        "post_date": "Mar 4, 2018",
+        "read_time": "6 min read",
+        "author_follower_count": "1.6K Followers",
+        "post_tags": [
+            "Sql",
+            "Data Science",
+            "Software Development",
+            "Python",
+            "Coding"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "45"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "How to query JSONB, beginner sheet cheat",
+        "post_link": "https://towardsdatascience.com/how-to-query-jsonb-beginner-sheet-cheat-4da3aa5082a3",
+        "author_name": "Rapha\u00ebl Huchet",
+        "post_date": "Mar 30, 2017",
+        "read_time": "3 min read",
+        "author_follower_count": "251 Followers",
+        "post_tags": [
+            "",
+            "Sql",
+            "Programming",
+            "Database",
+            "Postgres",
+            "Tech"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "19"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "6 SQL Queries Every Data Engineer Should Be Aware of",
+        "post_link": "https://towardsdatascience.com/6-sql-queries-every-data-engineer-should-be-aware-of-2d0a2cc5986e",
+        "author_name": "Cinto",
+        "post_date": "Oct 7, 2021",
+        "read_time": "4 min read",
+        "author_follower_count": "2.4K Followers",
+        "post_tags": [
+            "Sql",
+            "Programming",
+            "Data Science",
+            "Software Engineering",
+            "Software Development"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "23"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "10 SQL Queries You Should Know as a Data Scientist",
+        "post_link": "https://towardsdatascience.com/10-sql-queriesyou-should-know-as-a-data-scientist-8bf616204765",
+        "author_name": "U\u011fur Savc\u0131",
+        "post_date": "Mar 9, 2022",
+        "read_time": "6 min read",
+        "author_follower_count": "1.1K Followers",
+        "post_tags": [
+            "Sql",
+            "Data Science",
+            "Database",
+            "Sql Queries",
+            "Data Analytics"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "26"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "Finding and killing long running queries on PostgreSQL",
+        "post_link": "https://towardsdatascience.com/finding-and-killing-long-running-queries-on-postgres-7c4f0449e86d",
+        "author_name": "Anderson Dias",
+        "post_date": "Jul 6, 2016",
+        "read_time": "1 min read",
+        "author_follower_count": "287 Followers",
+        "post_tags": [
+            "Database",
+            "Postgres",
+            "Performance",
+            "Sql"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "13"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "Left Join with Pandas Data Frames in Python",
+        "post_link": "https://towardsdatascience.com/left-join-with-pandas-data-frames-in-python-c29c85089ba4",
+        "author_name": "Sergei Izrailev",
+        "post_date": "Aug 27, 2019",
+        "read_time": "3 min read",
+        "author_follower_count": "136 Followers",
+        "post_tags": [
+            "Sql",
+            "Data Science",
+            "Analytics",
+            "Data Engineering",
+            "Python"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "2"
+    },
+    {
+        "topic_name": "sql",
+        "topic_best_all_time_url": "https://medium.com/tag/sql/top/all-time",
+        "post_title": "SQL HackerRank Solutions",
+        "post_link": "https://towardsdatascience.com/sql-hackerrank-solutions-516666f9eb8c",
+        "author_name": "Rahul Pathak",
+        "post_date": "Jun 20, 2020",
+        "read_time": "12 min read",
+        "author_follower_count": "295 Followers",
+        "post_tags": [
+            "Sql",
+            "Programming",
+            "Data Science",
+            "Technology",
+            "Data Analysis"
+        ],
+        "post_clap_count": "NA",
+        "post_comment_count": "3"
+    }
+]
